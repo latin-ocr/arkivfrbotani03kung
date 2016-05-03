@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani03kung_0513.png"; bbox 0 0 2421 4007; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2013 193 2239 233">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2013 193 2239 233">
+     <span class='ocr_line' id='line_1_1' title="bbox 2013 193 2239 233; baseline 0.013 -3"><span class='ocrx_word' id='word_1_1' title='bbox 2013 193 2126 230; x_wconf 80' lang='lat' dir='ltr'><strong>TAF</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2124 200 2164 232; x_wconf 90' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2193 195 2239 233; x_wconf 90' lang='grc'><strong>8.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2160 4004">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2160 4004">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2160 4004; baseline 0.006 -325"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2160 4004; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 123 3694 2057 3797">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 123 3694 2057 3797">
+     <span class='ocr_line' id='line_1_3' title="bbox 123 3694 2057 3797; baseline 0.003 -34"><span class='ocrx_word' id='word_1_5' title='bbox 123 3694 125 3701; x_wconf 33' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 190 3766 209 3797; x_wconf 45' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_7' title='bbox 229 3710 261 3727; x_wconf 73' lang='grc'>”</span> <span class='ocrx_word' id='word_1_8' title='bbox 350 3721 392 3764; x_wconf 91' lang='grc'><strong>4.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 456 3721 514 3766; x_wconf 86' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 548 3722 925 3781; x_wconf 83' lang='lat' dir='ltr'>holopleuroides</span> <span class='ocrx_word' id='word_1_11' title='bbox 955 3725 1152 3770; x_wconf 74' lang='lat' dir='ltr'><em>Dahlst.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1275 3726 1314 3769; x_wconf 90' lang='lat'><strong>5.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1379 3725 1436 3769; x_wconf 78' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1471 3724 1793 3782; x_wconf 86' lang='lat' dir='ltr'>holopleurum</span> <span class='ocrx_word' id='word_1_15' title='bbox 1825 3725 2021 3769; x_wconf 80' lang='lat' dir='ltr'><em>Dahlst.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 2048 3777 2057 3782; x_wconf 43' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1848 3873 2217 3910">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1848 3873 2217 3910">
+     <span class='ocr_line' id='line_1_4' title="bbox 1848 3873 2217 3910; baseline 0.003 -9"><span class='ocrx_word' id='word_1_17' title='bbox 1848 3875 1883 3902; x_wconf 86' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1904 3873 2104 3910; x_wconf 79' lang='lat' dir='ltr'>Cederquist,</span> <span class='ocrx_word' id='word_1_19' title='bbox 2126 3876 2217 3902; x_wconf 77' lang='lat' dir='ltr'><strong>Foto.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

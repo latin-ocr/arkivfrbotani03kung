@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani03kung_0522.png"; bbox 0 0 2421 4007; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 185 1189 234">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 185 1189 234">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 185 1189 234; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 43 196 236 234; x_wconf 64' lang='lat' dir='ltr'><em>ARKJV</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 258 189 368 231; x_wconf 60' lang='lat' dir='ltr'>fejff</span> <span class='ocrx_word' id='word_1_3' title='bbox 394 192 663 229; x_wconf 76' lang='grc' dir='ltr'><em>ΒΟΤᾸΝΙΚ.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 715 188 880 226; x_wconf 68' lang='grc' dir='ltr'>ΒΑΜ)</span> <span class='ocrx_word' id='word_1_5' title='bbox 905 187 949 225; x_wconf 86' lang='grc'>3.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1003 186 1095 224; x_wconf 83' lang='grc' dir='ltr'><em>Ν.-ο</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1120 185 1189 224; x_wconf 87' lang='grc'>10.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 166 0 2421 4007">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 166 0 2421 4007">
+     <span class='ocr_line' id='line_1_2' title="bbox 166 0 2421 4007; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 166 0 2421 4007; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 315 3706 2417 3780">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 315 3706 2417 3780">
+     <span class='ocr_line' id='line_1_3' title="bbox 315 3706 2417 3780; baseline -0.006 -14"><span class='ocrx_word' id='word_1_9' title='bbox 315 3727 348 3766; x_wconf 89' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_10' title='bbox 417 3725 472 3767; x_wconf 82' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_11' title='bbox 508 3725 840 3769; x_wconf 71' lang='lat' dir='ltr'>arctocerinthe</span> <span class='ocrx_word' id='word_1_12' title='bbox 872 3724 1067 3768; x_wconf 75' lang='lat' dir='ltr'><em>Dahlst.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1189 3726 1229 3768; x_wconf 79' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1297 3724 1352 3767; x_wconf 83' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1389 3722 1697 3780; x_wconf 81' lang='lat' dir='ltr'>bipediforme</span> <span class='ocrx_word' id='word_1_16' title='bbox 1728 3721 1922 3766; x_wconf 78' lang='lat' dir='ltr'><strong><em>Dahlst.</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2043 3719 2083 3762; x_wconf 83' lang='lat'>3.</span> <span class='ocrx_word' id='word_1_18' title='bbox 2148 3715 2204 3760; x_wconf 82' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_19' title='bbox 2239 3706 2417 3758; x_wconf 74' lang='lat' dir='ltr'><strong>sem-ibi</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
